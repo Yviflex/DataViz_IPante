@@ -35,3 +35,6 @@ Colares Barreto, Moises, Doris Kosminsky, et Claudio Esperança. « Hexagonal H
 Rogers, Simon. « Tilegrams: Make Your Own Cartogram Hexmaps with Our New Tool. » Google News Lab (blog), 22 septembre 2016. https://medium.com/google-news-lab/tilegrams-make-your-own-cartogram-hexmaps-with-our-new-tool-df46894eeec1.
 
 
+May 11, Danny DeBelius | et 2015. « Let’s Tesselate: Hexagons for Tile Grid Maps », 31 juillet 2024. http://blog.apps.npr.org/2015/05/11/hex-tile-maps.html.
+
+
