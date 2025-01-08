@@ -26,8 +26,11 @@ A titre de comparason et comme le sujet de ce travai porte principalement sur le
 # Difficultés rencontrées
 
 Une des principales difficultés de ce travail a été la réalisation des cartes en tuiles polygonales. En effet, la variable choisie pour mes données n'offrent que très peu de polygones à certains cantons comme Uri avec un seul siège. Ainsi il devient impossible d'approximer la forme topologique du canton avec un seul hexagone. La tache est plus aisée avec le canton de vaud par exemple, offrant 19 tuiles avec lesquelles travailler. Cela complique également la cohérence topologique de mes cantons. Il est impossible de faire coïncider les 7 voisins au canton d'Uri avec un seul hexagone, qui n'accepte que 6 voisins directs. Cela peu paraître plus facile en utilisant les tuiles carrées: il peut être considéré qu'un unique carré accepte 8 voisins en décidant que les sommets opposés d'autres tuiles carrées en font des voisins. Néanmoins, de mon ressenti, les tuiles hexagonales offrent un visuels plus agréable à lire, permettant de mieux approximer certaines formes géographiques complexes.
+
 ![Capture4](https://github.com/user-attachments/assets/8b81c189-4f60-4847-a46a-09c017f7c140)
+
 ![Capture5](https://github.com/user-attachments/assets/4329bc81-0dd8-4773-a914-9f25f3891f00)
+
 ![Capture6](https://github.com/user-attachments/assets/87170b01-0124-4b19-9070-a1bcdea17205)
 
 Par la suite, j'aimerais pouvoir réaliser un tel produit permettant d'y ajouter à son gré de nouvelles données, puis d'en afficher une visualisation d'anamorphose en tuiles polygonales. Pour ce faire, il faudra développer un algorithme sachant calculer de manière dynamique et suffisamment rapide les nouvelles positions des différentes tuiles polygonales tout en maintenant une logique topologique satisfaisante. Une bonne piste à étudier est la page "Tilegrams" développée par Pitch Interactive (Simon 2016).
