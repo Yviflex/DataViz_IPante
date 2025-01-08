@@ -42,19 +42,20 @@ Ce produit  a été réalisé en grande partie grâce aux contenus des cours "Vi
 Colares Barreto, Moises, Doris Kosminsky, et Claudio Esperança. « Hexagonal Hierarchical Cartogram: Towards a Thematic Map of Brazil ». InfoDesign - Revista Brasileira de Design Da Informação 15, nᵒ 1 (28 août 2018): 45‑62. https://doi.org/10.51358/id.v15i1.563.
 
 
+DeBelius, Danny DeBelius . « Let’s Tesselate: Hexagons for Tile Grid Maps », 31 juillet 2024. http://blog.apps.npr.org/2015/05/11/hex-tile-maps.html.
+
+
 Langton, Samuel H, et Reka Solymosi. « Cartograms, Hexograms and Regular Grids: Minimising Misrepresentation in Spatial Data Visualisations ». Environment and Planning B: Urban Analytics and City Science 48, nᵒ 2 (1 février 2021): 348‑57. https://doi.org/10.1177/2399808319873923.
 
 
 Rogers, Simon. « Tilegrams: Make Your Own Cartogram Hexmaps with Our New Tool. » Google News Lab (blog), 22 septembre 2016. https://medium.com/google-news-lab/tilegrams-make-your-own-cartogram-hexmaps-with-our-new-tool-df46894eeec1.
 
 
-May 11, Danny DeBelius | et 2015. « Let’s Tesselate: Hexagons for Tile Grid Maps », 31 juillet 2024. http://blog.apps.npr.org/2015/05/11/hex-tile-maps.html.
+Straumann, Ralph - twentyfirst. « Conceptualisation of a D3 Linked View with a Hexagonal Cartogram », 6 mai 2013. https://www.ralphstraumann.ch/blog/2013/05/conceptualisation-of-a-d3-linked-view-with-hexagonal-cartogram/.
 
 
-[Wongsuphasawat - Quality Metrics for Tile Grid Maps.pdf](https://github.com/user-attachments/files/18345038/Wongsuphasawat.-.Quality.Metrics.for.Tile.Grid.Maps.pdf)
+Wongsuphasawat, Krist - Quality Metrics for Tile Grid Maps.pdf. (https://github.com/user-attachments/files/18345038/Wongsuphasawat.-.Quality.Metrics.for.Tile.Grid.Maps.pdf)
 
-
-twentyfirst. « Conceptualisation of a D3 Linked View with a Hexagonal Cartogram », 6 mai 2013. https://www.ralphstraumann.ch/blog/2013/05/conceptualisation-of-a-d3-linked-view-with-hexagonal-cartogram/.
 
 # Données
 
