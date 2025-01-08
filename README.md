@@ -3,8 +3,11 @@ Carte interactive du nombre de sièges au CN en Suisse, réalisée avec D3
 
 Ce produit a été réalisé grâce aux données swissBOUNDRAIES3D de swisstopo. Aussi, les données relatives au nombre de sièges de chaque canton proviennent du site "parlament.ch".
 
+![Capture1](https://github.com/user-attachments/assets/f90b61c7-3034-4fd5-8d91-13c7e7bdfffa)
+
 # Fonctionnement
-La carte présente tout d'abord une carte de la suisse et un diagramme en barres horizontal qui décrite le nombre de sièges pour chauqe canton. Les couleurs sont associées pour que celles des canton dans le diagramme en barres correspondent à celles des cantons dans la carte. Il est ensuite possible, de changer la carte affichées en trois autres cartes. En cliquant sur "carte de la suisse" un bouton "anamorphose apparaît". Ce bouton permet d'afficher une carte qui représente chaque canton en déformant l'espace selon la variable du nombre de sièges au conseil national. Le botuon "tuiles carrées" affiche une carte similaire, mais cette fois, la carte est représentée sous forme de tuiles carrées, chaque tuile correspond alors à un siège au conseil national. Enfin, "tuiles hexagonales" fait de même avec, cette fois-ci, des tuiles en forme d'hexagone.![Capture1](https://github.com/user-attachments/assets/f90b61c7-3034-4fd5-8d91-13c7e7bdfffa)
+La carte présente tout d'abord une carte de la suisse et un diagramme en barres horizontal qui décrite le nombre de sièges pour chauqe canton. Les couleurs sont associées pour que celles des canton dans le diagramme en barres correspondent à celles des cantons dans la carte. Il est ensuite possible, de changer la carte affichées en trois autres cartes. En cliquant sur "carte de la suisse" un bouton "anamorphose apparaît". Ce bouton permet d'afficher une carte qui représente chaque canton en déformant l'espace selon la variable du nombre de sièges au conseil national. Le botuon "tuiles carrées" affiche une carte similaire, mais cette fois, la carte est représentée sous forme de tuiles carrées, chaque tuile correspond alors à un siège au conseil national. Enfin, "tuiles hexagonales" fait de même avec, cette fois-ci, des tuiles en forme d'hexagone.![Capture2](https://github.com/user-attachments/assets/f4c924bd-acde-4681-8a05-d56a8f3758e1)
+
 
 
 # Interactivité carte
