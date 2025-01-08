@@ -22,3 +22,13 @@ En survolant avec votre curseur les cantons sur les différentes cartes, ceux-ci
 
 A titre de comparason et comme le sujet de ce travai porte principalement sur les anamorphoses, un menu déroulant offrant la possibilté de choisir des données entre: le "nombre de sièges", la "surface géographique" et le "nombre d'habitants". En changeant la valeur par défaut étant "nombre de sièges" en une des deux autres, le diagramme en barre s'ajustera de manière dynamique. Ainsi, il permet de se rendre compte de la faible corrélation entre le nombre de siège et la surface d'un canton, car il changera drastiquement d'allure. Il permet aussi de se rendre compte de la corrélation évidente entre le nombre de sièges et le nombre d'habtitant, car il ne bougera presque pas.
 ![Recording 2025-01-08 at 10 01 29](https://github.com/user-attachments/assets/619ada59-3ad9-491c-b57f-9877d2206a02)
+
+# Resoources pour la réalisation
+
+Ce produit  a été réalisé en grande partie grâce aux contenus des cours "Visualisation de données" du professeur Isaac Pante et "Géovisualisation dynamique"  du professeur Christian Kaiser. L'inetelligence artificielle via "ChatGPT" à également permis d'améliorer et débuguer du code. Les ressources disponible sur "d3js.org" ont aussi été d'une grande aide dans la compréhension de multiples concepts et leur fonctionnement. Le logiciel de cartographie et traitement SIG "QGIS" a facilité l'élaboration en amont des visuels artographiques simples, en anamorphose et en tuiles polygonales avant d'être exporté au format geojson. Quelques articles de recherches m'ont offerts une bonne base de démarrage pour imaginer ce à quoi mon produit allait ressembler.
+
+# Bibliographie
+
+
+Colares Barreto, Moises, Doris Kosminsky, et Claudio Esperança. « Hexagonal Hierarchical Cartogram: Towards a Thematic Map of Brazil ». InfoDesign - Revista Brasileira de Design Da Informação 15, nᵒ 1 (28 août 2018): 45‑62. https://doi.org/10.51358/id.v15i1.563.
+
