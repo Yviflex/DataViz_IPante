@@ -23,7 +23,15 @@ En survolant avec votre curseur les cantons sur les différentes cartes, ceux-ci
 A titre de comparason et comme le sujet de ce travai porte principalement sur les anamorphoses, un menu déroulant offrant la possibilté de choisir des données entre: le "nombre de sièges", la "surface géographique" et le "nombre d'habitants". En changeant la valeur par défaut étant "nombre de sièges" en une des deux autres, le diagramme en barre s'ajustera de manière dynamique. Ainsi, il permet de se rendre compte de la faible corrélation entre le nombre de siège et la surface d'un canton, car il changera drastiquement d'allure. Il permet aussi de se rendre compte de la corrélation évidente entre le nombre de sièges et le nombre d'habtitant, car il ne bougera presque pas.
 ![Recording 2025-01-08 at 10 01 29](https://github.com/user-attachments/assets/619ada59-3ad9-491c-b57f-9877d2206a02)
 
-# Resoources pour la réalisation
+# Difficultés rencontrées
+
+Une des principales difficultés de ce travail a été la réalisation des cartes en tuiles polygonales. En effet, la variable choisies pour mes données n'offrent que très peu de polygones à certains cantons comme Uri avec un seul siège. Ainsi il devient impossible d'approximer la forme topologique du canton avec un seul hexagone, là oû la tache est plus aisées avec le canton de vaud. Cela complique égaleemnt la cohérence topologique de mes cantons car il est impossible de faire coïncider les 7 voisins au canton d'uri avec un seul hexagone, qui n'accepte que 6 voisins directs. Cela peu paraître plus facile en utilisant les tuiles carrées. Il pourrait être considéré qu'un unique carré accepte 8 voisins en décidant que les sommets opposés d'autres tuiles carrées en font des voisins. Néanmoins, de mon ressenti, les tuiles hexagonales offrent un visuels plus agréable à lire, permettant de mieux approximer certaine forme géographique complexe.
+
+![Capture5](https://github.com/user-attachments/assets/4329bc81-0dd8-4773-a914-9f25f3891f00)
+![Capture4](https://github.com/user-attachments/assets/8b81c189-4f60-4847-a46a-09c017f7c140)
+![Capture6](https://github.com/user-attachments/assets/87170b01-0124-4b19-9070-a1bcdea17205)
+
+# Ressources pour la réalisation
 
 Ce produit  a été réalisé en grande partie grâce aux contenus des cours "Visualisation de données" du professeur Isaac Pante et "Géovisualisation dynamique"  du professeur Christian Kaiser. L'inetelligence artificielle via "ChatGPT" à également permis d'améliorer et débuguer du code. Les ressources disponible sur "d3js.org" ont aussi été d'une grande aide dans la compréhension de multiples concepts et leur fonctionnement. Le logiciel de cartographie et traitement SIG "QGIS" a facilité l'élaboration en amont des visuels artographiques simples, en anamorphose et en tuiles polygonales avant d'être exporté au format geojson. Quelques articles de recherches et sites internet m'ont offerts une bonne base de démarrage pour imaginer ce à quoi mon produit allait ressembler, le travail de Raplh Straumann notamment, s'est avéré très intéressant.
 
