@@ -30,9 +30,11 @@ Une des principales difficultés de ce travail a été la réalisation des carte
 ![Capture5](https://github.com/user-attachments/assets/4329bc81-0dd8-4773-a914-9f25f3891f00)
 ![Capture6](https://github.com/user-attachments/assets/87170b01-0124-4b19-9070-a1bcdea17205)
 
+Par la suite, j'aimerais pouvoir réaliser un tel produit permettant d'y ajouter à son gré de nouvelles données, puis d'en afficher une visualisation d'anamorphose en tuiles polygonales. Pour ce faire, il faudra développer un algorithme sachant calculer de manière dynamique et suffisamment rapide les nouvelles positions des différentes tuiles polygonales tout en maintenant une logique topologique satisfaisante. Une bonne piste à étudier est la page "Tilegrams" développée par Pitch Interactive Simon 2026).
+
 # Ressources pour la réalisation
 
-Ce produit  a été réalisé en grande partie grâce aux contenus des cours "Visualisation de données" du professeur Isaac Pante et "Géovisualisation dynamique"  du professeur Christian Kaiser. L'inetelligence artificielle via "ChatGPT" à également permis d'améliorer et débuguer du code. Les ressources disponible sur "d3js.org" ont aussi été d'une grande aide dans la compréhension de multiples concepts et leur fonctionnement. Le logiciel de cartographie et traitement SIG "QGIS" a facilité l'élaboration en amont des visuels artographiques simples, en anamorphose et en tuiles polygonales avant d'être exporté au format geojson. Quelques articles de recherches et sites internet m'ont offerts une bonne base de démarrage pour imaginer ce à quoi mon produit allait ressembler, le travail de Raplh Straumann notamment, s'est avéré très intéressant.
+Ce produit  a été réalisé en grande partie grâce aux contenus des cours "Visualisation de données" du professeur Isaac Pante et "Géovisualisation dynamique"  du professeur Christian Kaiser. L'inetelligence artificielle via "ChatGPT" à également permis d'améliorer et débuguer du code. Les ressources disponible sur "d3js.org" ont aussi été d'une grande aide dans la compréhension de multiples concepts et leur fonctionnement. Le logiciel de cartographie et traitement SIG "QGIS" a facilité l'élaboration en amont des visuels artographiques simples, en anamorphose et en tuiles polygonales avant d'être exporté au format geojson. Quelques articles de recherches et sites internet m'ont offerts une bonne base de démarrage pour imaginer ce à quoi mon produit allait ressembler, le travail de Raplh Straumann (2013) notamment, s'est avéré très intéressant.
 
 # Bibliographie
 
