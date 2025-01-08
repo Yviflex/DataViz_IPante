@@ -13,6 +13,7 @@ La carte présente tout d'abord une carte de la suisse et un diagramme en barres
 # Interactivité carte
 
 En survolant avec votre curseur les cantons sur les différentes cartes, ceux-ci appraissent plus grands pour les mettre temporairement en évidence. En cliquant dessus, ils garderont leur opacité de couleur alors que les autres deviendront moins opaques pour une mise définitive. Cela mettra également en évidence la barre correspondante dans le diagramme en barre associé, y ajoutant une ligne traitillée et un point sur l'axe des x à la valeur exacte représentée. En survolant ce point de son curseur, cette valeur exacte s'affichera. En outre, les carte "afficherla suisse" et "anamorphose simple" offrent également une bulle style pop-up qui affichera le nom du canton et son nombre de sièges. Cette fonctionnalité n'a pas été maintenue pour les carte en tuiles polygonales car jugée contraire à l'effet désiré, qui est la mise en valeur de ce type de visualisation sans intervention de nouveaux éléments.
+![Capture3](https://github.com/user-attachments/assets/2ee4e2b2-f75e-4e95-8299-bcea24bdfef4)
 
 # Interactivité diagramme
 
