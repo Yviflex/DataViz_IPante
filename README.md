@@ -56,3 +56,9 @@ May 11, Danny DeBelius | et 2015. « Let’s Tesselate: Hexagons for Tile Grid 
 
 twentyfirst. « Conceptualisation of a D3 Linked View with a Hexagonal Cartogram », 6 mai 2013. https://www.ralphstraumann.ch/blog/2013/05/conceptualisation-of-a-d3-linked-view-with-hexagonal-cartogram/.
 
+# Données
+
+Données limites des cantons: https://www.swisstopo.admin.ch/de/landschaftsmodell-swissboundaries3d
+
+Données nbr sièges par canton: https://www.parlament.ch/fr/organe/conseil-national/membre-conseil-national-par-canton
+
