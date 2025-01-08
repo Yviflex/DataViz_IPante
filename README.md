@@ -31,6 +31,7 @@ Ce produit  a été réalisé en grande partie grâce aux contenus des cours "Vi
 
 
 Colares Barreto, Moises, Doris Kosminsky, et Claudio Esperança. « Hexagonal Hierarchical Cartogram: Towards a Thematic Map of Brazil ». InfoDesign - Revista Brasileira de Design Da Informação 15, nᵒ 1 (28 août 2018): 45‑62. https://doi.org/10.51358/id.v15i1.563.
+
 Rogers, Simon. « Tilegrams: Make Your Own Cartogram Hexmaps with Our New Tool. » Google News Lab (blog), 22 septembre 2016. https://medium.com/google-news-lab/tilegrams-make-your-own-cartogram-hexmaps-with-our-new-tool-df46894eeec1.
 
 
