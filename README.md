@@ -26,9 +26,8 @@ A titre de comparason et comme le sujet de ce travai porte principalement sur le
 # Difficultés rencontrées
 
 Une des principales difficultés de ce travail a été la réalisation des cartes en tuiles polygonales. En effet, la variable choisies pour mes données n'offrent que très peu de polygones à certains cantons comme Uri avec un seul siège. Ainsi il devient impossible d'approximer la forme topologique du canton avec un seul hexagone, là oû la tache est plus aisées avec le canton de vaud. Cela complique égaleemnt la cohérence topologique de mes cantons car il est impossible de faire coïncider les 7 voisins au canton d'uri avec un seul hexagone, qui n'accepte que 6 voisins directs. Cela peu paraître plus facile en utilisant les tuiles carrées. Il pourrait être considéré qu'un unique carré accepte 8 voisins en décidant que les sommets opposés d'autres tuiles carrées en font des voisins. Néanmoins, de mon ressenti, les tuiles hexagonales offrent un visuels plus agréable à lire, permettant de mieux approximer certaine forme géographique complexe.
-
-![Capture5](https://github.com/user-attachments/assets/4329bc81-0dd8-4773-a914-9f25f3891f00)
 ![Capture4](https://github.com/user-attachments/assets/8b81c189-4f60-4847-a46a-09c017f7c140)
+![Capture5](https://github.com/user-attachments/assets/4329bc81-0dd8-4773-a914-9f25f3891f00)
 ![Capture6](https://github.com/user-attachments/assets/87170b01-0124-4b19-9070-a1bcdea17205)
 
 # Ressources pour la réalisation
