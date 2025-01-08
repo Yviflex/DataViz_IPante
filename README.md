@@ -30,7 +30,7 @@ Une des principales difficultés de ce travail a été la réalisation des carte
 ![Capture5](https://github.com/user-attachments/assets/4329bc81-0dd8-4773-a914-9f25f3891f00)
 ![Capture6](https://github.com/user-attachments/assets/87170b01-0124-4b19-9070-a1bcdea17205)
 
-Par la suite, j'aimerais pouvoir réaliser un tel produit permettant d'y ajouter à son gré de nouvelles données, puis d'en afficher une visualisation d'anamorphose en tuiles polygonales. Pour ce faire, il faudra développer un algorithme sachant calculer de manière dynamique et suffisamment rapide les nouvelles positions des différentes tuiles polygonales tout en maintenant une logique topologique satisfaisante. Une bonne piste à étudier est la page "Tilegrams" développée par Pitch Interactive Simon 2026).
+Par la suite, j'aimerais pouvoir réaliser un tel produit permettant d'y ajouter à son gré de nouvelles données, puis d'en afficher une visualisation d'anamorphose en tuiles polygonales. Pour ce faire, il faudra développer un algorithme sachant calculer de manière dynamique et suffisamment rapide les nouvelles positions des différentes tuiles polygonales tout en maintenant une logique topologique satisfaisante. Une bonne piste à étudier est la page "Tilegrams" développée par Pitch Interactive (Simon 2016).
 
 # Ressources pour la réalisation
 
