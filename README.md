@@ -18,3 +18,4 @@ En survolant avec votre curseur les cantons sur les différentes cartes, ceux-ci
 # Interactivité diagramme
 
 A titre de comparason et comme le sujet de ce travai porte principalement sur les anamorphoses, un menu déroulant offrant la possibilté de choisir des données entre: le "nombre de sièges", la "surface géographique" et le "nombre d'habitants". En changeant la valeur par défaut étant "nombre de sièges" en une des deux autres, le diagramme en barre s'ajustera de manière dynamique. Ainsi, il permet de se rendre compte de la faible corrélation entre le nombre de siège et la surface d'un canton, car il changera drastiquement d'allure. Il permet aussi de se rendre compte de la corrélation évidente entre le nombre de sièges et le nombre d'habtitant, car il ne bougera presque pas.
+![Recording 2025-01-08 at 09 59 01](https://github.com/user-attachments/assets/e3e047d4-46cc-494a-8599-83878d0a9f79)
