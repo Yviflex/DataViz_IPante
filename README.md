@@ -25,7 +25,7 @@ A titre de comparason et comme le sujet de ce travai porte principalement sur le
 
 # Resoources pour la réalisation
 
-Ce produit  a été réalisé en grande partie grâce aux contenus des cours "Visualisation de données" du professeur Isaac Pante et "Géovisualisation dynamique"  du professeur Christian Kaiser. L'inetelligence artificielle via "ChatGPT" à également permis d'améliorer et débuguer du code. Les ressources disponible sur "d3js.org" ont aussi été d'une grande aide dans la compréhension de multiples concepts et leur fonctionnement. Le logiciel de cartographie et traitement SIG "QGIS" a facilité l'élaboration en amont des visuels artographiques simples, en anamorphose et en tuiles polygonales avant d'être exporté au format geojson. Quelques articles de recherches m'ont offerts une bonne base de démarrage pour imaginer ce à quoi mon produit allait ressembler.
+Ce produit  a été réalisé en grande partie grâce aux contenus des cours "Visualisation de données" du professeur Isaac Pante et "Géovisualisation dynamique"  du professeur Christian Kaiser. L'inetelligence artificielle via "ChatGPT" à également permis d'améliorer et débuguer du code. Les ressources disponible sur "d3js.org" ont aussi été d'une grande aide dans la compréhension de multiples concepts et leur fonctionnement. Le logiciel de cartographie et traitement SIG "QGIS" a facilité l'élaboration en amont des visuels artographiques simples, en anamorphose et en tuiles polygonales avant d'être exporté au format geojson. Quelques articles de recherches et sites internet m'ont offerts une bonne base de démarrage pour imaginer ce à quoi mon produit allait ressembler, le travail de Raplh Straumann notamment, s'est avéré très intéressant.
 
 # Bibliographie
 
@@ -44,4 +44,6 @@ May 11, Danny DeBelius | et 2015. « Let’s Tesselate: Hexagons for Tile Grid 
 
 [Wongsuphasawat - Quality Metrics for Tile Grid Maps.pdf](https://github.com/user-attachments/files/18345038/Wongsuphasawat.-.Quality.Metrics.for.Tile.Grid.Maps.pdf)
 
+
+twentyfirst. « Conceptualisation of a D3 Linked View with a Hexagonal Cartogram », 6 mai 2013. https://www.ralphstraumann.ch/blog/2013/05/conceptualisation-of-a-d3-linked-view-with-hexagonal-cartogram/.
 
